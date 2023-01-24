@@ -167,6 +167,7 @@ z-index: 1;
 
 .social-icon {
   margin: 20px 10px;
+  color: black;
 }
 
 @media (max-width: 1028px) {
